@@ -1,0 +1,42 @@
+header {
+     background-color: black;
+     color:white;
+     height: 100px;
+}
+
+header h1{
+     font-size: 50px;
+}
+
+header a{
+     font-size: 25px;
+     margin: 20px;
+}
+
+.sobre{
+     padding-top: 100px;
+
+}
+
+.sobre h2{
+     font-size:50px;
+     text-transform: capitalize;
+     color: blueviolet;
+     font-weight: 900;
+}
+
+.sobre h3{
+     font-size:25px;
+     font-style: italic;
+}
+
+.sobre h4{
+     font-size:18px;
+     font-style: italic;
+}
+
+.sobre-img img{
+     width: 300px;
+     border-radius:100%
+
+}
